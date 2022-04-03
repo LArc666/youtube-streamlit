@@ -1,10 +1,5 @@
-from typing import Text
-from pyparsing import condition_as_parse_action
+
 import streamlit as st
-import numpy as np
-import pandas as pd
-import datetime
-from PIL import Image
 import time
 
 #タイトル記入
